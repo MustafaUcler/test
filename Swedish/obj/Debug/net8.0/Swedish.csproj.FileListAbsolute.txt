@@ -1,0 +1,14 @@
+C:\Users\Enemih\desktop\test\Swedish\bin\Debug\net8.0\Swedish.exe
+C:\Users\Enemih\desktop\test\Swedish\bin\Debug\net8.0\Swedish.deps.json
+C:\Users\Enemih\desktop\test\Swedish\bin\Debug\net8.0\Swedish.runtimeconfig.json
+C:\Users\Enemih\desktop\test\Swedish\bin\Debug\net8.0\Swedish.dll
+C:\Users\Enemih\desktop\test\Swedish\bin\Debug\net8.0\Swedish.pdb
+C:\Users\Enemih\desktop\test\Swedish\obj\Debug\net8.0\Swedish.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Enemih\desktop\test\Swedish\obj\Debug\net8.0\Swedish.AssemblyInfoInputs.cache
+C:\Users\Enemih\desktop\test\Swedish\obj\Debug\net8.0\Swedish.AssemblyInfo.cs
+C:\Users\Enemih\desktop\test\Swedish\obj\Debug\net8.0\Swedish.csproj.CoreCompileInputs.cache
+C:\Users\Enemih\desktop\test\Swedish\obj\Debug\net8.0\Swedish.dll
+C:\Users\Enemih\desktop\test\Swedish\obj\Debug\net8.0\refint\Swedish.dll
+C:\Users\Enemih\desktop\test\Swedish\obj\Debug\net8.0\Swedish.pdb
+C:\Users\Enemih\desktop\test\Swedish\obj\Debug\net8.0\Swedish.genruntimeconfig.cache
+C:\Users\Enemih\desktop\test\Swedish\obj\Debug\net8.0\ref\Swedish.dll

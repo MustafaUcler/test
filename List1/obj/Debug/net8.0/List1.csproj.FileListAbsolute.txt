@@ -1,0 +1,14 @@
+C:\Users\Enemih\desktop\test\List1\bin\Debug\net8.0\List1.exe
+C:\Users\Enemih\desktop\test\List1\bin\Debug\net8.0\List1.deps.json
+C:\Users\Enemih\desktop\test\List1\bin\Debug\net8.0\List1.runtimeconfig.json
+C:\Users\Enemih\desktop\test\List1\bin\Debug\net8.0\List1.dll
+C:\Users\Enemih\desktop\test\List1\bin\Debug\net8.0\List1.pdb
+C:\Users\Enemih\desktop\test\List1\obj\Debug\net8.0\List1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Enemih\desktop\test\List1\obj\Debug\net8.0\List1.AssemblyInfoInputs.cache
+C:\Users\Enemih\desktop\test\List1\obj\Debug\net8.0\List1.AssemblyInfo.cs
+C:\Users\Enemih\desktop\test\List1\obj\Debug\net8.0\List1.csproj.CoreCompileInputs.cache
+C:\Users\Enemih\desktop\test\List1\obj\Debug\net8.0\List1.dll
+C:\Users\Enemih\desktop\test\List1\obj\Debug\net8.0\refint\List1.dll
+C:\Users\Enemih\desktop\test\List1\obj\Debug\net8.0\List1.pdb
+C:\Users\Enemih\desktop\test\List1\obj\Debug\net8.0\List1.genruntimeconfig.cache
+C:\Users\Enemih\desktop\test\List1\obj\Debug\net8.0\ref\List1.dll

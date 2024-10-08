@@ -1,0 +1,14 @@
+C:\Users\Enemih\desktop\test\lambda1\lambda1\bin\Debug\net8.0\Lambda1.exe
+C:\Users\Enemih\desktop\test\lambda1\lambda1\bin\Debug\net8.0\Lambda1.deps.json
+C:\Users\Enemih\desktop\test\lambda1\lambda1\bin\Debug\net8.0\Lambda1.runtimeconfig.json
+C:\Users\Enemih\desktop\test\lambda1\lambda1\bin\Debug\net8.0\Lambda1.dll
+C:\Users\Enemih\desktop\test\lambda1\lambda1\bin\Debug\net8.0\Lambda1.pdb
+C:\Users\Enemih\desktop\test\lambda1\lambda1\obj\Debug\net8.0\Lambda1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Enemih\desktop\test\lambda1\lambda1\obj\Debug\net8.0\Lambda1.AssemblyInfoInputs.cache
+C:\Users\Enemih\desktop\test\lambda1\lambda1\obj\Debug\net8.0\Lambda1.AssemblyInfo.cs
+C:\Users\Enemih\desktop\test\lambda1\lambda1\obj\Debug\net8.0\Lambda1.csproj.CoreCompileInputs.cache
+C:\Users\Enemih\desktop\test\lambda1\lambda1\obj\Debug\net8.0\Lambda1.dll
+C:\Users\Enemih\desktop\test\lambda1\lambda1\obj\Debug\net8.0\refint\Lambda1.dll
+C:\Users\Enemih\desktop\test\lambda1\lambda1\obj\Debug\net8.0\Lambda1.pdb
+C:\Users\Enemih\desktop\test\lambda1\lambda1\obj\Debug\net8.0\Lambda1.genruntimeconfig.cache
+C:\Users\Enemih\desktop\test\lambda1\lambda1\obj\Debug\net8.0\ref\Lambda1.dll
